@@ -1,44 +1,27 @@
-# c-b-t
+# clojure-noob
 
-FIXME: description
+Working through Clojure for the Brave and True.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Hosted on github.
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar c-b-t-0.1.0-standalone.jar [args]
+Run in VSCode with Calva add on.  That includes the kondo linting module.
 
 ## Options
 
-FIXME: listing of options this app accepts.
+None used.
 
 ## Examples
 
-...
+Many.
 
 ### Bugs
 
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+Im sure there are going to be SO many.
 
 ## License
 
-Copyright © 2020 FIXME
-
-This program and the accompanying materials are made available under the
-terms of the Eclipse Public License 2.0 which is available at
-http://www.eclipse.org/legal/epl-2.0.
-
-This Source Code may also be made available under the following Secondary
-Licenses when the conditions for such availability set forth in the Eclipse
-Public License, v. 2.0 are satisfied: GNU General Public License as published by
-the Free Software Foundation, either version 2 of the License, or (at your
-option) any later version, with the GNU Classpath Exception which is available
-at https://www.gnu.org/software/classpath/license.html.
+Defaulting to the EPL where it is applicable.  Any code copied from CBT is the property of that copyright holder.  Im just learnin' here.
